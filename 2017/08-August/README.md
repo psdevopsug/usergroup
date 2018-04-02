@@ -1,11 +1,8 @@
 # Scottish PowerShell & DevOps User Group Meetup on 30 August 2017
 
-Agenda:
+Find all the details of the meetup on our [website](https://psdevopsug.scot/meetups/2017-08-august/ "Scottish PowerShell and Devops User Group August 2017 Meetup").
 
-* [Meeting Agenda](https://github.com/psdevopsug/usergroup/blob/master/2017/08-August/MeetingAgenda.pptx);
-* Presentation - [Validate Your PowerShell Parameters With Enums](https://github.com/pauby/presentations/tree/master/Validate%20Your%20PowerShell%20Parameters%20With%20Enums) - [Paul Broadwith](https://pauby.com "Paul Broadwith Blog");
-
-Scottish PowerShell & DevOps User Group:
+Where to find the Scottish PowerShell & DevOps User Group:
 
 * [Website](https://psdevopsug.scot)
 * [Presentations on Github](https://git.psdevopsug.scot)

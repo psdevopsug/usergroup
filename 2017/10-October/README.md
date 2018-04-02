@@ -1,11 +1,8 @@
 # Scottish PowerShell & DevOps User Group Meetup on 31 October 2017
 
-Agenda:
+Find all the details of the meetup on our [website](https://psdevopsug.scot/meetups/2017-10-october/ "Scottish PowerShell and Devops User Group October 2017 Meetup").
 
-* [Meeting Agenda](https://github.com/psdevopsug/usergroup/blob/master/2017/10-October/MeetingAgenda.pptx);
-* Presentation - Hardening your Azure Webapp and Database Deployments Lifecycle by [Ebru Cucen](https://twitter.com/ebrucucen);
-
-Scottish PowerShell & DevOps User Group:
+Where to find the Scottish PowerShell & DevOps User Group:
 
 * [Website](https://psdevopsug.scot)
 * [Presentations on Github](https://git.psdevopsug.scot)

@@ -1,0 +1,16 @@
+Manual XML Manipulation:
+Jul 31 2015 - https://github.com/Windos/BurntToast/tree/baaf2e6f0cf1d9a25e7fa287d1a07e47f5ef7537
+
+PS5 Classes:
+Aug 27 2016 - https://github.com/Windos/BurntToast/tree/ff4547cd5523f4dc97786f9697732091f846a39c
+Sep 26 2016 - https://github.com/Windos/BurntToast/tree/bb083f7699a480f159ff006070b66d2bcbfd6ab7
+
+UWP Toolkit:
+Oct 31 2016 - https://github.com/Windos/BurntToast/tree/dd0da33344f0be7b53a623b1058b2bddd5e98e53
+
+
+UWP Toolkit:
+https://www.nuget.org/packages/Microsoft.Toolkit.Uwp.Notifications/
+
+dotPeek:
+https://www.jetbrains.com/decompiler/

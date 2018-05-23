@@ -1,10 +1,10 @@
-# Scottish PowerShell & DevOps User Group Meetup on 31 January 2018
+# Scottish PowerShell & DevOps User Group Meetup on 25 April 2018
 
 Agenda:
 
-* [Meeting Agenda](https://github.com/psdevopsug/usergroup/blob/master/2018/02-February/MeetingAgenda.pptx);
-* Presentation - [Green is Good Red is Bad - Turning Your Checklists into Pester Tests](https://github.com/SQLDBAWithABeard/Presentations/tree/master/SouthCoast%20-%20Green%20is%20Good%20Red%20is%20Bad) by [Rob Sewell](https://robsewell.info);
-* Presentation - [Application Provisioning with DSC and Octopus Deploy by Josh Duffney](https://www.dropbox.com/s/hc8teus4vhrfhab/slides.pptx?dl=0) ([Code & Lab Setup](https://github.com/Duffney/AppProvisionOctopusDSC)) by [Josh Duffney](http://duffney.io/)
+* [Meeting Agenda](https://github.com/psdevopsug/usergroup/blob/master/2018/04-April/MeetingAgenda.pptx);
+* Presentation - [Don't Reinvent the Wheel, Just Realign It](https://github.com/psdevopsug/usergroup/tree/master/2018/04-April/Presentation-Don't_Reinvent_the_Wheel_by_Josh_King) by Josh King [[t](https://twitter.com/WindosNZ)|[b](http://king.geek.nz/)]
+* Presentation - Hitchikers Guide to user-friendly module design [[t](https://twitter.com/FredWeinmann)|[b](https://t.co/iwfDS0e5KO)]
 
 Scottish PowerShell & DevOps User Group:
 

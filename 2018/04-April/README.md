@@ -11,5 +11,4 @@ Scottish PowerShell & DevOps User Group:
 * [Website](https://psdevopsug.scot)
 * [Presentations on Github](https://git.psdevopsug.scot)
 * [Twitter](https://twitter.com/scotpsug)
-* [Facebook](https://facebook.psdevopsug.scot)
 * [YouTube](https://video.psdevopsug.scot)

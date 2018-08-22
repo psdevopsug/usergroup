@@ -1,10 +1,10 @@
-# Scottish PowerShell & DevOps User Group Meetup on 28 June 2018
+# Scottish PowerShell & DevOps User Group Meetup on 22 August 2018
 
 Agenda:
 
-* [Meeting Agenda](https://github.com/psdevopsug/usergroup/blob/master/2018/06-June/MeetingAgenda.pptx);
-* Presentation - Getting Started: SharePoint PowerShell PnP by Veronique Lengelle [[t](https://twitter.com/veronicageek)|[b](https://veronicageek.com/)]
-* Presentation - [Simplifying Extended Events with PowerShell](https://github.com/sqlcollaborative/community-presentations/tree/master/chrissy-lemaire-gianluca-sartori/bits-xevents) by Chrissy LeMaire [[t](https://twitter.com/cl)|[b](https://dbatools.io)]
+* [Meeting Agenda](https://github.com/psdevopsug/usergroup/blob/master/2018/08-August/MeetingAgenda.pptx);
+* Presentation - **The World of PowerShell and AWS** by Bryce McDonald [[t](https://twitter.com/_brycemcdonald)|[w](http://www.brycematthew.net/)]
+* Presentation - **Building Better Bricks: Module design and development best practice** by Chris Gardner [[t](https://twitter.com/HalbaradKenafin)|[w](https://chrislgardner.github.io/)]
 
 Scottish PowerShell & DevOps User Group:
 

@@ -1,1 +1,1 @@
-# Workshop: DSC and Automated Lab by Jan-Hendrik Peters 
+Contains all of hte slides, code and resources for the woekshops we've hosted.

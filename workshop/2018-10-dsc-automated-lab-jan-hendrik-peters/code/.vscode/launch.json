@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Lab 01, Task 01",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceRoot}/Tests/Invoke.ps1",
+            "args": [
+                "Lab01",
+                "Task01"
+            ]
+        },
+        {
+            "name": "Lab 01, Task 02",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceRoot}/Tests/Invoke.ps1",
+            "args": [
+                "Lab01",
+                "Task02"
+            ]
+        },
+        {
+            "name": "Lab 02, Task 01",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceRoot}/Tests/Invoke.ps1",
+            "args": [
+                "Lab02",
+                "Task01"
+            ]
+        },
+        {
+            "name": "Lab 03, Task 01",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceRoot}/Tests/Invoke.ps1",
+            "args": [
+                "Lab03",
+                "Task01"
+            ]
+        },
+        
+        {
+            "type": "PowerShell",
+            "request": "launch",
+            "name": "PowerShell Launch Current File",
+            "script": "${file}",
+            "args": [],
+            "cwd": "${file}"
+        }
+    ]
+}

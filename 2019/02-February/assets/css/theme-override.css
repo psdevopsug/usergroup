@@ -1,0 +1,36 @@
+body {
+  background: #123e6d;
+}
+
+.reveal {
+  font-family: "Montserrat", "Open Sans", sans-serif;
+}
+
+.reveal h2, .reveal h3 {
+/*  font-family: "Roboto Condensed", "Open Sans", sans-serif; */
+  color: yellow;
+}
+
+.reveal h5, .reveal h6 {
+  text-transform: none;
+}
+
+.reveal section img {
+    border: 0;
+    background-color: 0;
+    background: none;
+    box-shadow: none;
+    margin: 0;
+}
+
+.reveal .slides {
+    text-align: left
+}
+
+.reveal li {
+    margin: 0 0 1rem 0;
+}
+
+.reveal table td {
+  border: 0;
+}
